@@ -42,4 +42,7 @@ List Anggota  :
 ## September 30, 2020 v0.3
 ### Menyelesaikan ISO9126
 ### Memulai homepage
-### Menambahkan Template homepage
+### Menambahkan Template homepage 
+
+## Oktober 5, 2020 v0.4
+### Menambahkan Login Page
